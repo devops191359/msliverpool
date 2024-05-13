@@ -5,7 +5,7 @@ info:
       version: '@java.version@'
     id: 100
     name: '@project.name@'
-    response: http://localhost:10410/msoempleado/v1/errors/
+    response: http://localhost:10410/msliverpool/v1/errors/
     version: '@project.version@'
     author: Eduardo Guillen Maldonado
     email: guillenmaldonadoeduardo@gmail.com
